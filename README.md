@@ -1,6 +1,6 @@
 # Dashboard Sederhana untuk Analisis Data Bike Rentals
 
-Dashboard ini dibangun menggunakan Streamlit dan bertujuan untuk memberikan analisis visual tentang data penyewaan sepeda berdasarkan cuaca dan hari dalam seminggu.
+Dashboard ini dibangun menggunakan Streamlit dan bertujuan untuk memberikan analisis visual tentang data penyewaan sepeda berdasarkan cuaca dan hari dalam seminggu. Klik link https://bikesharingdataset-a8wbqcyjgy6aaudeyk4apf.streamlit.app/ untuk melihat dashboard 
 
 ## Prasyarat
 
